@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/keith/CPSC475_examples/6_BuilderPatternDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="66b88e0e509375b8993c4dd6c0d3f461aea4c431">
+        <dex dex="/home/keith/CPSC475_examples/6_BuilderPatternDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_28ee57dd7af7be004e9c592c7aeabb47231b613a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keith/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/keith/CPSC475_examples/6_BuilderPatternDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_35f7a73a14ffd92e853e7bfa77df1d5605165c51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/keith/CPSC475_examples/6_BuilderPatternDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="16614e8c3ff1c87606a78ec20427582025289503">
+        <dex dex="/home/keith/CPSC475_examples/6_BuilderPatternDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_451d2c8be4d42617069c1f8c5b13f4cec3fee1a2/classes.dex" />
+    </item>
+
+</items>
