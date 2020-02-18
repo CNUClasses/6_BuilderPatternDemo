@@ -2,43 +2,36 @@
 <instant-run
     abi="x86"
     api-level="23"
-    density="xhdpi"
+    density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="169518109461782"
+    timestamp="178095111818893"
     token="3102855603535201480"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="63" />
+        duration="392" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="15" />
+        duration="105" />
     <task
         name="verifier"
-        duration="0" />
+        duration="3" />
 
     <artifact
-        location="/home/keith/CPSC475_examples/6_BuilderPatternDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
-        type="DEX" />
+        location="/home/keith/CPSC475_examples/6_BuilderPatternDemo/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="168625361961715"
+        timestamp="178095111818893"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/keith/CPSC475_examples/6_BuilderPatternDemo/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="169518109461782"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/keith/CPSC475_examples/6_BuilderPatternDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

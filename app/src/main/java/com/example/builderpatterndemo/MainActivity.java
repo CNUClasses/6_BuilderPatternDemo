@@ -1,10 +1,11 @@
 package com.example.builderpatterndemo;
 
 import android.os.Bundle;
-import android.app.Activity;
 import android.view.Menu;
 
-public class MainActivity extends Activity {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class MainActivity extends AppCompatActivity {
 	
 	private void demoConstructionTechniques() {
 

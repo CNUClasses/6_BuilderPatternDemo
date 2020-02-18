@@ -59,6 +59,7 @@ public class Object_Builder {
 		//construct a DEMOOptionalFields object
 		//builder ensures that it is not partially constructed
 		public Object_Builder build() {
+			//check rules before creating object
 			return new Object_Builder(this);
 		}
 	}

@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
-        sha1="66b88e0e509375b8993c4dd6c0d3f461aea4c431">
+        sha1="86c950e66196d43a251e4d1b9076a5161102925f">
         <dex dex="/home/keith/CPSC475_examples/6_BuilderPatternDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_28ee57dd7af7be004e9c592c7aeabb47231b613a/classes.dex" />
     </item>
     <item
@@ -25,7 +25,7 @@
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
-        sha1="16614e8c3ff1c87606a78ec20427582025289503">
+        sha1="2bac135471cf3f4c572f84367af33bedaab2da73">
         <dex dex="/home/keith/CPSC475_examples/6_BuilderPatternDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_451d2c8be4d42617069c1f8c5b13f4cec3fee1a2/classes.dex" />
     </item>
 

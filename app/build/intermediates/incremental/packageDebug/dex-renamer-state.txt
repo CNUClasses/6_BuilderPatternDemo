@@ -1,4 +1,4 @@
-#Thu Feb 16 14:31:20 EST 2017
+#Thu Feb 16 17:18:43 EST 2017
 base.0=/home/keith/CPSC475_examples/6_BuilderPatternDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_451d2c8be4d42617069c1f8c5b13f4cec3fee1a2
 renamed.1=classes.dex
 renamed.0=classes2.dex
