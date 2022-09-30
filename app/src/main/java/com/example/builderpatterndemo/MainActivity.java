@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 		Object_Constructors myConstructors1 = new Object_Constructors(Company,"",0.0,Location);
 		
 		//********************** Setters (JavaBeans pattern)
-		//clean but cannot gurantee object is completely built
+		//clean but cannot guarantee object is completely built
 		//a constructor automatically returns a ref to the object its creating (do not return it yourself! otherwise
 		//the compiler assummes its a method and not a constructor)
 		Object_Setters myObject_Setters1 = new Object_Setters(Company).setLocation(Location);
