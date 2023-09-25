@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
 		Object_Setters myObject_Setters1 = new Object_Setters(Company).setLocation(Location);
 
 		//or set one at a time
+//		Object_Setters myObject_Setters = new Object_Setters(Company);
 		Object_Setters myObject_Setters = new Object_Setters(Company);
 		myObject_Setters.setLocation(Location);
 
